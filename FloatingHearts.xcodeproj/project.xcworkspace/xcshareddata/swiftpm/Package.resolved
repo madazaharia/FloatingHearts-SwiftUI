@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftcubicspline",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gscalzo/SwiftCubicSpline",
+      "state" : {
+        "revision" : "a38eb0eb396d5b6b2be857f4a2ce44237865c3e7",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
